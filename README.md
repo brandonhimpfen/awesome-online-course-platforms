@@ -8,8 +8,6 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-📌 This repository is archived with Zenodo and can be cited using the DOI above.
-
 > A curated list of resources for online course platforms, learning management systems (LMS), open-source e-learning software, and digital academy engines.
 
 Online course platforms provide the infrastructure to host instructional video streams, deliver interactive assessments, track learner progress, and monetize digital educational products. This list is intended for edtech architects, academic technology coordinators, independent creators, and enterprise learning leaders.
